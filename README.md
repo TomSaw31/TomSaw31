@@ -11,7 +11,7 @@
   <li>Python 🐍</li>
   <li>C/C#/C++ 🖥️</li>
   <li>Java ☕</li>
-  <li>OCaml 💡</li>
+  <li>OCaml 🐫</li>
   <li>GDScript 🤖</li>
   <li>SQL 📊</li>
   <li>HTML/CSS 🌐</li>
