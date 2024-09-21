@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hello! 👋</h1>
+</div>
 
-<!--
-**TomSaw31/TomSaw31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Thomas Saurel, and I'm a Computer Science and Mathematics student from Toulouse, France 🥖🍷.</p>
 
-Here are some ideas to get you started:
+<p>I have a strong passion for video game development 🎮, where I strive to create engaging experiences for players. My keen interest in sciences 🔬 fuels my curiosity to explore new ideas and solve complex problems.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Programming Languages 💻</h2>
+<ul>
+  <li>Python 🐍</li>
+  <li>C/C#/C++ 🖥️</li>
+  <li>Java ☕</li>
+  <li>OCaml 💡</li>
+  <li>GDScript 🤖</li>
+  <li>SQL 📊</li>
+  <li>HTML/CSS 🌐</li>
+  <li>Bash 🐚</li>
+</ul>
