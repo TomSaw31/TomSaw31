@@ -8,7 +8,6 @@
 
 <h2>Programming Languages 💻</h2>
 <ul>
-  <li>Python 🐍</li>
   <li>C/C#/C++ 🖥️</li>
   <li>GDScript 🤖</li>
   <li>Java ☕</li>
@@ -23,21 +22,23 @@
 <h3 align="left">🛠 Language and tools 💻</h3>
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" height="40" alt="Rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" height="40" alt="Ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
+  <img width="12" />
 </div>
