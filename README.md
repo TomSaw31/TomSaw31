@@ -6,19 +6,6 @@
 
 <p>I have a deep love for video game development 🎮, where I aim to create fun and engaging experiences that players will remember. I believe games can be a powerful way to tell stories and connect people. My interest in science 🔬 inspires me to explore new ideas and find creative solutions to complex challenges. I enjoy the process of experimenting and learning, whether it’s through coding or designing gameplay mechanics.</p>
 
-<h2>Programming Languages 💻</h2>
-<ul>
-  <li>C/C#/C++ 🖥️</li>
-  <li>GDScript 🤖</li>
-  <li>Java ☕</li>
-  <li>OCaml 🐫</li>
-  <li>Rust 🦀</li>
-  <li>Ruby 💎</li>
-  <li>Bash 🐚</li>
-  <li>SQL 📊</li>
-  <li>HTML/CSS 🌐</li>
-</ul>
-
 <h3 align="left">🛠 Language and tools 💻</h3>
 
 <div align="left">
@@ -30,7 +17,6 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
   <img width="12" />
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml logo"  />
@@ -40,5 +26,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" height="40" alt="Ruby logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" height="40" alt="Godot logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="40" alt="Unity logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" height="40" alt="Blender logo"  />
   <img width="12" />
 </div>
