@@ -6,7 +6,7 @@
 
 <p>I have a deep love for video game development 🎮, where I aim to create fun and engaging experiences that players will remember. I believe games can be a powerful way to tell stories and connect people. My interest in science 🔬 inspires me to explore new ideas and find creative solutions to complex challenges. I enjoy the process of experimenting and learning, whether it’s through coding or designing gameplay mechanics.</p>
 
-<h3 align="left">🛠 Language and tools 💻</h3>
+<h3 align="left">🛠 Languages and tools 💻</h3>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="Python logo"  />
