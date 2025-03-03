@@ -12,7 +12,7 @@
     </a>
 </div>
 
-<div>
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=TomSaw31&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" alt="[TomSaw31's Github Stats]">
     </a>
