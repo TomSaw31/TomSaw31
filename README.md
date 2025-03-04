@@ -1,7 +1,5 @@
-[![](https://raw.githubusercontent.com/TomSaw31/TomSaw31/master/background_gif.gif)]
-
 <div align="center">
-  <h1>Hello! 👋</h1>
+  <h1>Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 </div>
 
 <p>I am Thomas Saurel, a Computer Science and Mathematics student in Toulouse, France 🥖🍷.</p>
@@ -9,13 +7,6 @@
 <p> I am very interested in video game development 🎮. I try to create fun and innovative games. </p>
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomSaw31&theme=light&show_icons=true&hide_border=true&layout=compact" alt="[Top used languages]">
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=TomSaw31&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" alt="[TomSaw31's Github Stats]">
-    </a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=TomSaw31&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=2437ca&icon_color=000&bg_color=0e1020&theme=blue_navy" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomSaw31&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=2437ca&icon_color=fff&bg_color=0e1020&theme=blue_navy" /></a>
 </div>
