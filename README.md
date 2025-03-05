@@ -2,14 +2,13 @@
   <h1>Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 </div>
 
-<p>I am Thomas Saurel, Computer Science and Mathematics student in Toulouse, France. 🥖🍷<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" height="15" alt="C logo"  /></p>
+<p>I am Thomas Saurel, Computer Science and Mathematics student in the University of Toulouse, France. 🥖🍷<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" height="15" alt="C logo"  /></p>
 
 ## 👨‍💻 Focus Areas
-- **Focus Areas**:
-  - Game Development
-  - Cybersecurity
-  - Machine Learning
-  - Data Structures
+- Game Development
+- Cybersecurity
+- Machine Learning
+- Data Structures
 
 ## 🌱 Hobbies
 - **Learning New Languages** –   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/cn.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" height="15" alt="C logo"  />
