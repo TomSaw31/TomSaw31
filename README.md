@@ -4,15 +4,15 @@
 
 <p>I am Thomas Saurel, Computer Science and Mathematics student in the University of Toulouse, France. 🥖🍷<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" height="15" alt="C logo"  /></p>
 
-## 👨‍💻 Focus Areas
+## Focus Areas
 - Game Development
 - Cybersecurity
 - Machine Learning
 - Data Structures
 
-## 🌱 Hobbies
+## Hobbies
 - **Learning New Languages** –   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/cn.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" height="15" alt="C logo"  />
-- **Walking/Running** – I like walking in nature
+- **Sports** – I like walking and running
 - **Reading** – Detective novel/Self-improvement books
 - **Chess** – I enjoy being the worst chess player on Earth
 - **Video Games** – Minecraft, Elden Ring, Zelda, Subnautica
