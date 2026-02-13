@@ -9,18 +9,20 @@
 - Cybersecurity
 - Machine Learning
 - Data Structures
+- Applied Mathematics
+- Finance
 
 ## Hobbies
 - **Learning New Languages** –   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/cn.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" height="15" alt="C logo"  />
 - **Sports** – I like walking and running
 - **Reading** – Detective novel/Self-improvement books
-- **Chess** – I enjoy being the worst chess player on Earth
+- **Chess** – I enjoy being the worst chess player on Earth (600 elo)
 - **Video Games** – Minecraft, Elden Ring, Zelda, Subnautica
 
 
 <div align="left">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TomSaw31&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=2437ca&icon_color=000&bg_color=0e1020&theme=blue_navy" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomSaw31&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=2437ca&icon_color=fff&bg_color=0e1020&theme=blue_navy" /></a>
+  <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TomSaw31&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=2437ca&icon_color=000&bg_color=0e1020&theme=blue_navy" />
+  <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomSaw31&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=2437ca&icon_color=fff&bg_color=0e1020&theme=blue_navy" /></a>
 </div>
 
 <p>Programming Languages :</p>
