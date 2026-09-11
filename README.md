@@ -13,7 +13,7 @@
 - Cybersecurity
 
 ## Hobbies
-- **Learning New Languages** –   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/cn.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" height="15" alt="C logo"  />
+- **Learning New Languages** –   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" height="15" alt="C logo"  /> / <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" height="15" alt="C logo"  />
 - **Sports** – I like walking and running
 - **Reading** – Detective novel/Self-improvement books
 - **Chess** – I enjoy being bad at chess (650 elo)
