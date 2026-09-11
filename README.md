@@ -2,7 +2,7 @@
   <h1>Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 </div>
 
-<p>I am Thomas Saurel, Computer Science and Mathematics student in the University of Toulouse, France. 🥖🍷<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" height="15" alt="C logo"  /></p>
+<p>I am Thomas Saurel, Computer Science and Mathematics student in the National School of Computer Science and Applied Mathematics of Grenoble, France. 🥖🍷<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/fr.svg" height="15" alt="C logo"  /></p>
 
 ## Focus Areas
 - Quantitative Analysis in Finance
@@ -29,6 +29,8 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml logo"  />
@@ -47,7 +49,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" height="40" alt="Blender logo"  />
-  <img width="12" />
-  <img src="https://www.kali.org/docs/policy/trademark/kali-dragon-tm.png" height="40" alt="Blender logo"  />
   <img width="12" />
 </div>
